@@ -48,3 +48,25 @@ Tecnologias que compõem meu núcleo operacional:
 | **01** | **Portfólio Profissional Interativo** — Interface web moderna integrada ao ecossistema TrendsIT. | `React` / `Vite` / `JavaScript` | [Repositório](https://github.com/Rodrigo0024/Meu-portf-lio-profissional-interativo---TrendsIT-2026) |
 | **02** | **CRUD Django MySQL** — Sistema robusto de gerenciamento de dados com operações completas. | `Django` / `Python` / `MySQL` | [Repositório](https://github.com/Rodrigo0024/-CRUD-Django-MySQL) |
 | **03** | **Smart Recommendations** — Sistema de recomendações inteligente baseado em comportamento e machine learning. | `Django` / `Scikit-learn` / `Python` | [Repositório](https://github.com/Rodrigo0024/modelo-de-recomenda-o-inteligente-de-produtos) |
+## 🌌 // OBJETIVO PRINCIPAL
+
+<div align="center">
+  <table style="border: 2px solid #00f0ff; border-radius: 12px; background-color: #050505; box-shadow: 0 0 15px rgba(0, 240, 255, 0.2);">
+    <tr>
+      <td align="center" width="50%" style="border-right: 2px solid #1a0033; padding: 15px;">
+        <p style="color: #00f0ff; font-family: 'Fira Code', monospace;"> Estágio antes do fim do mundo! 🚀🔥</p>
+        <img src="https://i.pinimg.com/originals/e1/51/6b/e1516bd78f1f59dd14b42a8976faffad.gif" width="280px" style="border-radius: 8px; max-height: 180px; object-fit: cover; border: 1px solid #7000ff; box-shadow: 0 0 10px rgba(112, 0, 255, 0.4);" alt="Tomoko Fim do Mundo" />
+      </td>
+      <td align="left" width="50%" style="padding: 15px; color: #c0c0c0; font-family: 'Fira Code', monospace;">
+        <h3 style="color: #00f0ff;">🤖 // ANÁLISE DO SISTEMA</h3>
+        <p style="color: #00ff66;"><code>> Rodando diagnóstico de carreira...</code></p>
+        <p><b>Localização:</b> Interior (Quer achar vaga presencial na roça? Boa sorte achando a matriz da Google no pasto 🐄🏜️)</p>
+        <p><b>Mercado:</b> Concorrência nível Olimpíadas do Faustão, só monstro disputando a mesma vaga 💀</p>
+        <p><b>Diagnóstico:</b> As chances de dar bom são estritamente piada interna de dev desempregado. 🤡</p>
+        <p>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=FF0055&vCenter=true&width=330&height=40&lines=CHANCE%3A+0.0001%25...;MORAR+NO+INTERIOR+FOI+DENSO...;MAS+F%C3%89+NO+DEPLOY+E+VAI%21" alt="Zuação da IA" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>D
