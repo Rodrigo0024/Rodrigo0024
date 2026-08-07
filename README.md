@@ -64,7 +64,7 @@ Tecnologias que compõem meu núcleo operacional:
         <p><b>Mercado:</b> Concorrência nível Olimpíadas do Faustão, só monstro disputando a mesma vaga 💀</p>
         <p><b>Diagnóstico:</b> As chances de dar bom são estritamente piada interna de dev desempregado. 🤡</p>
         <p>
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=FF0055&vCenter=true&width=330&height=40&lines=CHANCE%3A+0.0001%25...;MORAR+NO+INTERIOR+É+TENSO...;MAS+F%C3%89+NO+DEPLOY+E+VAI%21" alt="Zuação da IA" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=FF0055&vCenter=true&width=330&height=40&lines=CHANCE%3A+0.0001%25...;MORAR+NO+INTERIOR+E+TENSO...;MAS+F%C3%89+NO+DEPLOY+E+VAI%21" alt="Zuação da IA" />
         </p>
       </td>
     </tr>
