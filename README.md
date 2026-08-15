@@ -48,6 +48,7 @@ Tecnologias que compõem meu núcleo operacional:
 | **01** | **Portfólio Profissional Interativo** — Interface web moderna integrada ao ecossistema TrendsIT. | `React` / `Vite` / `JavaScript` | [Repositório](https://github.com/Rodrigo0024/Meu-portf-lio-profissional-interativo---TrendsIT-2026) |
 | **02** | **CRUD Django MySQL** — Sistema robusto de gerenciamento de dados com operações completas. | `Django` / `Python` / `MySQL` | [Repositório](https://github.com/Rodrigo0024/-CRUD-Django-MySQL) |
 | **03** | **Smart Recommendations** — Sistema de recomendações inteligente baseado em comportamento e machine learning. | `Django` / `Scikit-learn` / `Python` | [Repositório](https://github.com/Rodrigo0024/modelo-de-recomenda-o-inteligente-de-produtos) |
+| **04** | **Futebol EV+ Analyzer** — Sistema de análise quantitativa de apostas esportivas, utilizando machine learning, distribuição de Poisson e rating Elo para identificar valor esperado positivo (+EV). | `Streamlit` / `DuckDB` / `Scikit-learn` / `Python` | [Repositório](https://github.com/Rodrigo0024/futebol-ev-analyzer) |
 ## 🌌 // OBJETIVO PRINCIPAL
 
 <div align="center">
