@@ -23,15 +23,15 @@
 
 ---
 
-## ⚡ // SOBRE MIM
+##  SOBRE MIM
 
-> **[SYSTEM AWAKENED]** Fala aí! Que bom ter você por aqui. 🚀 Sou apaixonado por tecnologia e atualmente estou cursando o **6º semestre de Engenharia da Computação**. Gosto de combinar a lógica da programação com um toque criativo para resolver problemas reais e construir sistemas que realmente funcionem bem. Seja programando em Python, desenvolvendo com Django ou explorando novas tecnologias, estou sempre em busca de aprender algo novo e evoluir um pouco a cada dia!
-
----
+Fala aí! Que bom ter você por aqui. 🚀 Sou apaixonado por tecnologia e atualmente estou cursando o **6º semestre de Engenharia da Computação**. Gosto de combinar a lógica da programação com um toque criativo para resolver problemas reais e construir sistemas que realmente funcionem bem. Seja programando em Python, desenvolvendo com Django ou explorando novas tecnologias, estou sempre em busca de aprender algo novo e evoluir um pouco a cada dia!
 
 ---
 
-## 🛠️ // NEURAL TECH STACK
+---
+
+## NEURAL TECH STACK
 
 Tecnologias que compõem meu núcleo operacional:
 
